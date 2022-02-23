@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno Regni Caroli Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, decimo septimo, at the Parliament begun at Westminster the third day of November, Anno Dom. 1640 in the 16. year of the reign of our Most Gracious Sovereign Lord, Charles, by the grace of God, of England, Scotland, France, and Ireland, King, Defender of the Faith, &amp;c.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37642</idno>
+            <idno type="STC">Wing E1246</idno>
+            <idno type="STC">ESTC R5264</idno>
+            <idno type="EEBO-CITATION">12794771</idno>
+            <idno type="OCLC">ocm 12794771</idno>
+            <idno type="VID">93972</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93972)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 379:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno Regni Caroli Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, decimo septimo, at the Parliament begun at Westminster the third day of November, Anno Dom. 1640 in the 16. year of the reign of our Most Gracious Sovereign Lord, Charles, by the grace of God, of England, Scotland, France, and Ireland, King, Defender of the Faith, &amp;c.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[13] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker ... and by the assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Cum privilegio"</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Legislation --  England.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93972:1" rendition="simple:additions"/>
+            <pb facs="tcp:93972:1"/>
+            <p>ANNO REGNI CAROLI REGIS ANGLIAE, SCOTIAE, FRANCIAE, &amp; HIBERNIAE, DECIMO SEPTIMO.</p>
+            <p>At the Parliament begun at <hi>Weſtminſter,</hi> the third day of November, <hi>Anno Dom.</hi> 1640.</p>
+            <p>In the 16. year of the Reign of our moſt gracious Sovereign Lord, CHARLES, by the grace of God, of England, Scotland, France, and Ireland KING, Defender of the Faith, &amp;c.</p>
+            <p>LONDON, Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. 1641.</p>
+            <p>
+               <hi>Cum Privilegio.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:93972:2"/>
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="act">
+            <pb facs="tcp:93972:2"/>
+            <head>ANNO XVII. Caroli Regis.</head>
+            <head type="sub">¶ An Act for diſinabling all Perſons in Holy Orders to ex<g ref="char:EOLhyphen"/>erciſe any Temporal Jurisdi<g ref="char:EOLhyphen"/>ction or Authority.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Biſhops and other Perſons in holy</hi> Orders ought not to be intangled with ſecu<g ref="char:EOLhyphen"/>lar Iuriſdiction (the Office of the Miniſterie being of ſuch great Importance, that it will take up the whole Man) And for that it is found by long experience, that their intermed<g ref="char:EOLhyphen"/>ling with ſecular Iuriſdictions, hath occaſi<g ref="char:EOLhyphen"/>oned great miſchiefs and ſcandal both to Church and State; His Majeſtie, out of His Religious care of the Church and Souls of His People, is graciouſly pleaſed that it be Enacted, And by Authoritie of this pre<g ref="char:EOLhyphen"/>ſent Parliament be it Enacted, That no Archbiſhop or Biſhop or other per<g ref="char:EOLhyphen"/>ſon that now is, or hereafter ſhall be in Holy Orders, ſhall at any time, after the fifteenth day of <hi>February,</hi> in the yéer of our Lord. One thouſand ſix hundred fourtie one, have any Seat or Place, Suffrage or Voice, or uſe or execute any power or authoritie in the Parliaments of this Realm, nor ſhall be of the
+<pb facs="tcp:93972:3"/>Privie Councel of His Majeſtie, His Heirs or Succeſſors, or Iuſtice of the Peace of Oyer and Terminer, or Goal-deliverie, or execute any Temporal authoritie by vertue of any Commiſſion, But ſhall be wholly diſabled, and be uncapable to have, receive, uſe or execute any of the ſaid Offices, Places, Powers, Authorities and things aforeſaid.</p>
+            <p>And be it further Enacted by the Authoritie aforeſaid, That all Acts from and after the ſaid fiftéenth day of <hi>February,</hi> which ſhall be done or executed by any Archbiſhop or Biſhop or other Perſon whatſoever in Holy Orders, and all and everie Suffrage or Voice given or delivered by them or any of them, or other thing done by them or any of them contrarie to the Purport and true meaning of this preſent Act, ſhall be utterlie void to all intents, conſtructions and purpoſes.</p>
+         </div>
+         <div type="act">
+            <pb facs="tcp:93972:3"/>
+            <head>
+               <g ref="char:leaf">❧</g> ANNO XVII. Caroli Regis.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> An Act for repeal of a Branch of a Statute primo Elizabethae, concerning Commiſſioners for Cauſes Eccleſiaſticall.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas in the Parliament holden in the firſt year</hi> of the raign of the late Queen <hi>Elizabeth,</hi> late Queën of <hi>England,</hi> there was an Act made and eſtabliſhed, Intituled. <hi>An Act reſtoring to the Crown the ancient Jurisdiction over the State Eccleſia<g ref="char:EOLhyphen"/>ſtical and Spiritual, and aboliſhing all forreign power repugnant to the ſame;</hi> In which Act, amongſt other things, there is contained one Clauſe, Branch, Article or Sentence, whereby it was Enacted to this effect; Namely, that the ſaid late Quéens Highneſſe, her heirs and ſucceſſors Kings or Quéens of this Realm, ſhould have full power and authoritie by vertue of that Act by Letters Pattents under the great Seal of <hi>England,</hi> to aſſigne, name and authorize, when, and as often as her Highneſſe, her heirs or Suc<g ref="char:EOLhyphen"/>ceſſours ſhould think meet and convenient, and for ſuch, and ſo long time as ſhould pleaſe her Highneſſe, her Heirs or Succeſſors, ſuch perſon or perſons being natural born Subjects to her Highneſſe, her Heirs or Succeſſors, as her Majeſty, her Heirs or Succeſſors ſhould think meet to exerciſe, uſe, occupie and execute under her Highneſſe, her Heirs and Succeſſors, all manner of Iuriſdictions, Priviledges and Preheminence, in any wiſe touching or con<g ref="char:EOLhyphen"/>cerning any Spiritual or Eccleſiaſtical Iuriſdiction within theſe her Realms of <hi>England</hi> and <hi>Ireland,</hi> or any other her Highneſſe Dominions and Coun<g ref="char:EOLhyphen"/>tries,
+<pb facs="tcp:93972:4"/>and to viſit, reform, redreſſe, order, correct and amend all ſuch errors, hereſies, ſchiſmes, abuſes, offences, contempts and Enormities whatſoever, which by any manner Spiritual or Eccleſiaſtical power, authoritie or Iuriſ<g ref="char:EOLhyphen"/>diction, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or may lawfullie be reformed, ordered, redreſſed, corrected, re<g ref="char:EOLhyphen"/>ſtrained or amended, to the pleaſure of Almightie God, the increaſe of vertue, and the conſervation of the peace and unitie of this Realm: And that ſuch perſon or perſons ſo to be named, aſſigned, authorized and appointed by her Highneſſe, her Heirs or Succeſſors after the ſaid Letters Pattents to him or them made and delivered, as aforeſaid, ſhould have full power and authori<g ref="char:EOLhyphen"/>tie, by vertue of that Act, and of the ſaid Letters Pattents under her High<g ref="char:EOLhyphen"/>neſſe, her Heirs or Succeſſors to exerciſe, uſe and execute all the premiſes, according to the tenour and effect of the ſaid Letters Pattents, any matter or cauſe to the contrarie in any wiſe notwithſtanding.</p>
+            <p>And whereas by colour of ſome words in the foreſaid Branch of the ſaid Act, whereby Commiſſioners are authorized to execute their Commiſſion accord<g ref="char:EOLhyphen"/>ing to the tenour and effect of the Kings Letters Pettents, and by Letters Pattents grounded thereupon the ſaid Commiſſioners have to the great and inſufferable wrong and oppreſſion of the Kings Subjects, uſed to fine and im<g ref="char:EOLhyphen"/>priſon them, and to exerciſe other authoritie not belonging to Eccleſiaſtical Iuriſdiction reſtored by that Act, and divers other great miſchiefs and inconve<g ref="char:EOLhyphen"/>niences have alſo enſued to the Kings Subjects, by occaſion of the ſaid Branch and Commiſſions iſſued thereupon, and the executions thereof: Therefore for the repreſſing and preventing of the foreſaid abuſes, miſchiefs and incon<g ref="char:EOLhyphen"/>veniences in time to come;</p>
+            <p>Be it enacted by the Kings moſt Excellent Majeſtie, and the Lords and Commons in this preſent Parliament aſſembled, and by the authoritie of the ſame, That the foreſaid Branch; Clauſe, Article or Sentence contained in the ſaid Act, and every word, matter and thing contained in that Branch, Clauſe, Article or Sentence; ſhall from henceforth be repealed, annulled, re<g ref="char:EOLhyphen"/>voked, annihilated and utterlie made void for ever, any thing in the ſaid Act to the contrarie in any wiſe notwithſtanding.</p>
+            <p>And be it alſo enacted by the authoritie aforeſaid, That no Archbiſhop, Bi<g ref="char:EOLhyphen"/>ſhop, nor Vicar general, nor any Chancellour, Official, nor Commiſſarie of any Archbiſhop, Biſhop or Vicar general, nor any Ordinary whatſoever, nor any other Spiritual or Eccleſiaſtical Iudge, Officer or Miniſter of Iu<g ref="char:EOLhyphen"/>ſtice, nor any other perſon or perſons whatſoever, exerciſing Spiritual or Eccleſiaſtical power, authoritie or Iuriſdiction, by any Grant, Licenſe or Commiſſion of the Kings Majeſtie. his Heirs or Succeſſors, or by any power or authoritie derived from the King, his Heirs or Succeſſors, or other<g ref="char:EOLhyphen"/>wiſe ſhall from and after the firſt day of <hi>Auguſt,</hi> which ſhall be in the yeér of our Lord God one thouſand ſix hundred fourty and one, award impoſe or inflict any pain, penaltie, fine, amercement impriſonment, or other corpo<g ref="char:EOLhyphen"/>rall puniſhment upon any of the Kings Subjects for any contempt misde<g ref="char:EOLhyphen"/>meanour, crime offence matter or thing whatſoever belonging to Spiri<g ref="char:EOLhyphen"/>tual or Eccleſiaſtical cogniſance or Iurisdiction, or ſhall <hi>ex officio</hi> or at the inſtance or promotion of any other perſon whatſoever, urge, inforce, tender, give or miniſter unto any Churchwarden, Sideman or other perſon whatſo<g ref="char:EOLhyphen"/>ever any corporal oath, whereby he or ſhe ſhall or may be charged or obliged to make any preſentment of any crime or offence, or to confeſſe or to accuſe him or her ſelf of any crime, offence, delinquencie or miſdemeanour or any neglect, matter or thing whereby or by reaſon whereof be or ſhe ſhall or may be liable or expoſed to any cenſure, pain, penaltie or puniſhment whatſoever, upon pain, and penaltie that everie perſon, who ſhall offend contrarie to this Statute, ſhall forfeit and pay trebble damages to every perſon thereby griev<g ref="char:EOLhyphen"/>ed, and the ſunt of one hundred pounds to him or them who ſhall firſt demand and ſue for the ſame, which ſaid trebble damages and ſum of one hundred pounds ſhall and may be demanded and recovered by action of debt, bill, or
+<pb facs="tcp:93972:4"/>plaint in any Court of Record, wherein no priviledge. Eſſoine, protection or wager of Law ſhall be admitted or allowed to the Defendant. And be it further enacted. That every perſon who ſhall be once convicted of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or offence, prohibited by this Statute, ſhall for ſuch act or offence be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and after ſuch conviction utterlie diſabled to be or continue in any off<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or im<g ref="char:EOLhyphen"/>ployment, in any Court of Iuſtice whatſoever: or to exerciſe or execute any power, authoritie, or Iuriſdiction, by force of any Commiſſion, or Let<g ref="char:EOLhyphen"/>ters Pattents of the King, his Heirs or Succeſſours.</p>
+            <p>And be it further Enacted. That from and after the ſaid firſt day of <hi>Auguſt,</hi> no new Court ſhall be erected, ordeined or appointed within this Realm of <hi>England,</hi> or Dominion of <hi>Wales,</hi> which ſhall or may have the like power, Iu<g ref="char:EOLhyphen"/>riſdiction or authoritie, as the ſaid high Commiſſion Court now hath or pre<g ref="char:EOLhyphen"/>tendeth to have. But that all and every ſuch Letters Pattents, Commiſſi<g ref="char:EOLhyphen"/>ons and Grants made or to be made by his Majeſtie, his Heirs or Succeſſors. And all powers and authorities granted or pretended or mentioned to be granted thereby, and all Acts, Sentences and Decrees to be made by vertue or colour thereof <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ut<g ref="char:EOLhyphen"/>terlie void, and of no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="act">
+            <pb facs="tcp:93972:5"/>
+            <head>ANNO XVII. Caroli Regis.</head>
+            <head type="sub">¶ An Act for regulating of the Privy Councell, and for taking away the Court commonly called the <hi>Star-Chamber,</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas by the great Charter many times</hi> confirmed in Parliament, It is enacted, That no Freeman ſhall be taken or impriſon<g ref="char:EOLhyphen"/>ed, or diſſeiſed of his Fréehold or Liberties or frée Cuſtomes, or be Outlawed or exiled or otherwiſe deſtroyed, and that the King will not paſſe upon him, or condemn him but by lawful Iudgment of his Péers, or by the Law of the Land: And by another Statute made in the fifth yéer of the Reign of King <hi>Edward</hi> the third, It is Enacted, That no Man ſhall be attached by any accuſation, nor fore-judged of life or lim, nor his Lands, Tenements, Goods nor Chattels ſeiſed in<g ref="char:EOLhyphen"/>to the Kings hands againſt the form of the great Charter, and the Law of the Land: And by another Statute made in the five and twentieth yéer of the Reign of the ſame King <hi>Edward</hi> the third, It is accorded, aſſented and
+<pb facs="tcp:93972:5"/>eſtabliſhed, that none ſhall be taken by petition, or ſuggeſtion made to the King or to His Councell, unleſſe it be by Indictment or Preſentment of good and lawfull people of the ſame neighbourhood where ſuch de<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be done, in due manner, or by Proceſſe made by Writ Original at the common Law, and that none be put out of his Franchiſe or Frée-hold, unleſſe he be duly brought in to anſwer, and fore-judged of the ſame by the courſe of the Law, and if any thing be done againſt the ſame, it ſhall be redreſſed and hol<g ref="char:EOLhyphen"/>den for none. And by another Statute made in the eight and twentieth yéer of the Reign of the ſame King <hi>Edward</hi> the third, It is amongſt other things En<g ref="char:EOLhyphen"/>acted, that no man of what eſtate or condition ſoever he be, ſhall be put out of his Lands or Tenements, nor taken nor impriſoned, nor diſinherited, without being brought in to anſwer by due Proceſſe of Law: And by another Statute made in the two &amp; fourtieth yéer of the Reign of the ſaid King <hi>Edward</hi> the third, It is Enacted, that no man be put to anſwer without preſentment before Iuſtices, or matter of Record, or by due Proceſſe and Writ original, according to the old Law of the Land, and if any <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be done to the contra<g ref="char:EOLhyphen"/>ry, it ſhall be void in Law and holden for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by another Statute, made in the ſix and thirtieth yéer of the ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Edward</hi> the third, It is a<g ref="char:EOLhyphen"/>mongſt other things Enacted, That all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which ſhall be pleaded in any Courts before any the Kings Iuſtices, or in His other places, or before any of His other Miniſters, or in the Courts and places of any other Lords with<g ref="char:EOLhyphen"/>in the Realm, ſhall be entred and enrolled in Latine. And whereas by the Statute made in the third yéer of King <hi>Henry</hi> the ſeventh, power is given to the Chancellour, the Lord Treaſurer of <hi>England</hi> for the time being, and the Kéeper of the Kings Privy Seal or two of them, calling unto them a Bi<g ref="char:EOLhyphen"/>ſhop and Temporal Lord of the Kings moſt honourable Councel, and the two chief Iuſtices of the Kings Bench and common Pleas for the time being, or other two Iuſtices in their abſence to procéed, as in that Act is expreſſed, for the puniſhment of ſome particular offences therein mentioned, And by the Statute made in the one and twentieth yéer of King <hi>Henry</hi> the eighth, The Preſident of the Councell is aſſociated to joyn with the Lord Chancellour and other Iudges in the ſaid Statute, of the third of <hi>Henry</hi> the ſeventh men<g ref="char:EOLhyphen"/>tioned, But the ſaid Iudges have not kept themſelves to the points limited by the ſaid Statute, but have undertaken to puniſh where no Law doth warrant, and to make Decrees for things having no ſuch authoritie, and to inflict heavier puniſhments than by any Law is warranted.</p>
+            <p>And foraſmuch as all matters examinable, or determinable before the ſaid Iudges, or in the Court commonly called the Star-chamber, may have their proper remedy and redreſſe, and their due puniſhment, and correction by the common Law of the Land, and in the ordinary courſe of Iuſtice elſewhere; And foraſmuch as the reaſons and motives inducing the erection and continu<g ref="char:EOLhyphen"/>ance of that Court do now ceaſe, and the procéedings, Cenſures and Decrées of that Court, have by experience béen found to be an intollerable burthen to the Subject, and the means to introduce an arbitrarie power and Govern<g ref="char:EOLhyphen"/>ment; And foraſmuch as the Councel-Table, hath of late times aſſumed un<g ref="char:EOLhyphen"/>to it ſelf, a power to intermeddle in Civil cauſes and matters, only of pri<g ref="char:EOLhyphen"/>vate intereſt betwéen party and partie, and have adventured to determine of the Eſtates and Liberties of the Subject, contrarie to the Law of the Land, and the rights and priviledges of the Subject, by which great and manifold miſchiefs and inconveniences have ariſen and happened, and much incertain<g ref="char:EOLhyphen"/>tie by means of ſuch procéedings hath béen conceived cencerning mens rights, and eſtates; For ſetling whereof, and preventing the like in time to come;</p>
+            <p>Be it Grdained and Enacted by authoritie of this preſent Parliament, That the ſaid Court commonly called the Star-Chamber, and all Iuriſdicti<g ref="char:EOLhyphen"/>on power and authoritie belonging unto, or exerciſed in the ſame Court, or by any the Iudges, Officers or Miniſters thereof, be from the firſt day of <hi>Auguſt,</hi> in the yéer of our Lord God, one thouſand ſix hundred fourtie and one,
+<pb facs="tcp:93972:6"/>cléerly and abſolutely diſſolved, taken away and determined, and that from the ſaid firſt day of <hi>Auguſt,</hi> neither the Lord Chancellor, or Kéeper of the great Seal of England, the Lord Treaſurer of England, the Kéeper of the Kings Privy-Seal, or Preſident of the Councell, nor any Biſhop, Temporall Lord, Privy-Councellor, or Iudge, or Iuſtice whatſoever, ſhall have any power or authority to hear, examine, or determine any matter or thing what<g ref="char:EOLhyphen"/>ſoever, in the ſaid Court commonlie called the Star-Chamber, or to make, pronounce, or deliver any Iudgment, Sentence, Order or Decrée, or to do any Iudiciall or Miniſterial Act in the ſaid Court: And that all and every Act and Acts of Parliament, and all and every Article, Clauſe and Sentence in them and every of them, by which any Iuriſdiction, power, or authority is given, limited or appointed unto the ſaid Court, commonly called the Star-Chamber, or unto all, or any the Iudges, Officers, or Miniſters thereof, or for any procéedings to be had or made in the ſaid Court, or for any matter or thing to be drawn into queſtion, examined, or determined there, ſhall for ſo much as concerneth the ſaid Court of Star-Chamber, and the po<g ref="char:EOLhyphen"/>wer and authority thereby given unto it, be from the ſaid firſt day of <hi>Auguſt</hi> re<g ref="char:EOLhyphen"/>pealed, and abſolutely revoked and made void.</p>
+            <p>And be it likewiſe enacted, That the like Iuriſdiction now uſed and exerei<g ref="char:EOLhyphen"/>ſed in the Court before the Preſident, and Councell in the Marches of Wales, and alſo in the Court, before the Preſident, and Councel eſtabliſhed in the Northern parts: And alſo in the Court commonly called the Court of the Duchie of Lancaſter, held before the Chancellour, and Councel of that Court: and alſo in the Court of Exchequer, of the County Palatine of Cheſter, held before the Chamberlain and Councell of that Court; The like Iuriſdiction being exerciſed there, ſhall from the ſaid firſt day of <hi>Auguſt,</hi> one thouſand ſix hundred fourty and one, be alſo repealed, and abſolutelie revoked and made void, any Law, Preſcription, Cuſtom or uſage, Or the ſaid Statute, made in the third yéer of King <hi>Henry</hi> the ſeventh, Or the Statute, made the one and twentieth of <hi>Henry</hi> the eighth, Or any Act or Acts of Parliament hereto<g ref="char:EOLhyphen"/>fore had or made, to the contrarie thereof in any wiſe notwithſtanding, and that from henceforth no Court, Councell, or place of Iudicature ſhall be ere<g ref="char:EOLhyphen"/>cted, ordained, conſtituted or appointed within this Realm of England; or Dominion of Wales, which ſhall have, uſe or exerciſe the ſame, or the like Iuriſdiction, as is, or hath béen uſed, practiſed, or exerciſed in the ſaid Court of Star-Chamber.</p>
+            <p>Be it likewiſe declared and enacted by authoritie of this preſent Parlia<g ref="char:EOLhyphen"/>ment, That neither his Majeſtie, nor his Privy-Councell, have, or ought to have any Iuriſdiction, power, or authoritie, by Engliſh Bill, Peti<g ref="char:EOLhyphen"/>tion, Articles, Libell, or any other arbitrary way whatſoever, to examine, or draw into queſtion, determine or diſpoſe of the Lands, Tenements, Here<g ref="char:EOLhyphen"/>ditaments, Goods or Chattels, of any the Subjects of this Kingdom: But that the ſame ought to be tried, and determined in the ordinary Courts of Iuſtice, and by the ordinary courſe of the Law.</p>
+            <p>And be it further provided and enacted, That if any Lord Chancellour, or Kéeper of the great Seal of England, Lord Treaſurer, Keeper of the Kings Privy Seal, Preſident of the Councell, Biſhop, Temporal Lord, Privy-Councellour, Iudge, or Iuſtice whatſoever, ſhall offend, or do any thing con<g ref="char:EOLhyphen"/>trarie to the purport, true intent and meaning of this Law, Then he or they ſhall for ſuch offence, forfeit the ſum of five hundred pounds of lawful money of England, unto any party grieved, his Executors or Adminiſtrators, who ſhall really proſecute for the ſame, and firſt obtein Iudgment thereupon, to be recorded in any Court of Record at Weſtminſter, by action of Debt, Bill, Plaint, or Information, wherein no Eſſoine. Protection, Wager of Law, Aid. Prayer, Priviledge, Injunction, or Order of reſtraint ſhall be in any wiſe prayed, granted or allowed, nor any more than one Imparlance. And if any perſon, againſt whom any ſuch Iudgment, or Recovery ſhall be
+<pb facs="tcp:93972:6"/>had as aforeſaid, ſhall after ſuch Judgment, or Recovery offend again in the ſame, then he or they for ſuch offence ſhall forfeit the ſum of one thouſand pounds of lawful money of England unto any party grieved his Executors or Adminiſtrators, who ſhall really proſecuſe for the ſame, and firſt obtain Iudgment thereupon to be recorded in any Court of Record at Weſtminſter, by action of Debt, Bill, Plaint, or Information, in which no Eſſoine Pro<g ref="char:EOLhyphen"/>tection, Wager of Law, wid, Prayer, Priviledge, Injunetion or Order of Reſtraint ſhall be in any wiſe prayed granted or allowed, nor any more than one Imparlance, and if any perſon againſt whom any ſuch ſecond Iudgment or Recovery ſhall be had as aforeſaid, ſhall after ſuch Iudgment or Recovery offend again in the ſame kind<g ref="char:punc">▪</g> and ſhall be thereof dulie convicted by Indictment, Information, or any other lawful way or means, that ſuch perſon ſo convicted ſhall be from thenceforth diſabled, and become by vertue of this Act incapable <hi>Ipſo facto,</hi> to hear his and their ſaid Office, and Offices reſpectively<g ref="char:punc">▪</g> and ſhall be likewiſe diſabled to make any Gift, Grant, Con<g ref="char:EOLhyphen"/>veiance, or other diſpoſition of any his Lands, Tenements<g ref="char:punc">▪</g> Hereditaments, Goods or Chattels, or to take any benefit of any Gift, Conveiance, or Le<g ref="char:EOLhyphen"/>gacie to his own uſe.</p>
+            <p>And every perſon ſo offending ſhall likewiſe forfeit and loſe unto the party grieved, by any thing done contrarie to the true intent and meaning of this Law, his trebble damages, which he ſhall ſuſtain, and be put unto by means or occaſion of any ſuch Act, or thing done, the ſame to be recovered in any of His Majeſties Courts of Record at Weſtminſter, by action of Debt, Bill, Plaint, or Information, wherein no Eſſoine, Profection, Wager of Law, Aid, Prayer, Priviledge, Injunction or Order of Reſtraint, ſhall be in any wiſe Prayed, Granted, or allowed, nor any more than one Imparlance.</p>
+            <p>And be it alſo provided and enacted, That if any perſon ſhall hereafter he committed, reſtrained of his libertie, or ſuffer impriſonment by ſhe Order or Decree of any ſuch Court of Star-Chamber, or other Court aforeſaid now, or at any time hereafter, having or pretending to have the ſame or like Iuriſ<g ref="char:EOLhyphen"/>diction, Power or authoritie to commit, or impriſon as aforeſaid, Or by the Command or Warrant of the Kings Majeſtie, his Heirs or Succeſſours in their own perſon, or by the Command or Warrant of the Councel-board, or of any of the Lords, or others of his Majeſties Privy-Councel, That in eve<g ref="char:EOLhyphen"/>ry ſuch caſe every perſon ſo committed, reſtrained of his libertie, or ſuffering impriſonment, upon demand or motion made by his Counſel, or other im<g ref="char:EOLhyphen"/>ployed by him for that purpoſe, unto the Iudges of the Court of Kings Bench, or Common Pleas. in open Court, ſhall without delaie, upon any pretence whatſoever, for the ordinary Fées uſually paid for the ſame, have forthwith granted unto him a Writ of <hi>Habeas Corpus,</hi> to be directed generally unto all and everie Sheriffs, Goaler, Miniſter, Officer, or other perſon, in whoſe cuſtodie the partie committed or reſtrained ſhall be, and the Sheriffs, Goaler, Miniſter, Officer, or other perſon, in whoſe cuſtody the partie ſo committed or reſtrained ſhall be, ſhall at the return of the ſaid Writ, and according to the Command thereof, upon due and convenient notice thereof given unto him, at the charge of the partie who requireth or procureth ſuch Writ, and upon ſecuritie by his own bond given, to pay the charge of carrying back the Priſoner, if he ſhall be remanded by the Court, to which he ſhall be brought, as in like caſes hath béen uſed, ſuch Charges of bringing up and carrying back the Priſoner, to be alwaies ordered by the Court, if any difference ſhall a<g ref="char:EOLhyphen"/>riſe thereabout, bring or cauſe to be brought the bodie of the ſaid partie ſo com<g ref="char:EOLhyphen"/>mitted, or reſtrained, unto and bafore the Iudges or Iuſtices of the ſaid Court, from whence the ſame Writ ſhall iſſue in open Court, and ſhall then likewiſe certifie the true cauſe of ſuch his deteinour or impriſonment, and thereupon the Court within thrée Court-daies after ſuch return made and delivered in open Court, ſhall procéed to examine and determine whether the cauſe of ſuch Commitment appearing upon the ſaid return be juſt and legal, or not, and
+<pb facs="tcp:93972:7"/>ſhall thereupon do what to juſtice ſhall appertain, either by delivering, bail<g ref="char:EOLhyphen"/>ing, or remanding the Priſoner. And if any thing ſhall be otherwiſe wilful<g ref="char:EOLhyphen"/>lie done or omitted to be done by any Iudge, Iuſtice, Officer, or other perſon afore-mentioned, contrarie to the direction and true meaning hereof, That then ſuch perſon ſo offending ſhall forfeit to the partie grieved his trebble damages, to be recovered by ſuch means and in ſuch manner, as is formerlie in this Act limited and appointed for the like penaltie to be ſued for and reco<g ref="char:EOLhyphen"/>vered.</p>
+            <p>Provided alwaies, and be it enacted, That this Act, and the ſeveral Clau<g ref="char:EOLhyphen"/>ſes therein contained, ſhall be taken and expounded to extend only to the Court of Star-Chamber, and to the ſaid Courts holden before the Preſident, and Councel in the Marches of <hi>Wales,</hi> and before the Preſident and Councel in the Northern Parts: And alſo to the Court commonly called the Court of the Dutchy of Lancaſter, holden before the Chancellour and Councel of that Court: And alſo in the Court of Exchequer of the County Palatine of Cheſter, held before the Chamberlain and Councel of that Court. And to all Courts of like Iuriſdiction to be hareafter erected, ordained, conſtituted or ap<g ref="char:EOLhyphen"/>pointed as aforeſaid: And to the Warrants and Directions of the Councel-board, and to the Commitments, reſtraints and impriſonments of any perſon or perſons made, commanded, or awarded by the Kings Majeſty, his Heirs or Succeſſours in their own perſon, or by the Lords and others of the Privy-Councel, and every one of them.</p>
+            <p>And laſtly, provided, and be it enacted. That no perſon or perſons ſhall be ſued, impleaded, moleſted or troubled for any offence againſt this preſent Act unleſſe the party ſuppoſed to have ſo offended, ſhall be ſued or impleaded for the ſame within two yéers at the moſt after ſuch time wherein the ſaid offence ſhall be com<g ref="char:EOLhyphen"/>mitted.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
